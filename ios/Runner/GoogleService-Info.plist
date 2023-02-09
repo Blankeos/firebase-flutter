@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>695717788662-ekms7aj2asklo79uau1gamatnajuk6nt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.695717788662-ekms7aj2asklo79uau1gamatnajuk6nt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNYTV3zm8DzkUmVwO-p8r3Jxq7p4y0L9U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>695717788662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.svenMobile</string>
+	<key>PROJECT_ID</key>
+	<string>carlo-brew-crew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carlo-brew-crew.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:695717788662:ios:501c281e4052edb3b965d7</string>
+</dict>
+</plist>

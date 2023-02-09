@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695717788662",
+    "project_id": "carlo-brew-crew",
+    "storage_bucket": "carlo-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695717788662:android:579841cb10eaeaa2b965d7",
+        "android_client_info": {
+          "package_name": "com.example.sven_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695717788662-15d204opc0609ejchu4dignq72cumr67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdlgT6Ra66c5pA9fcXR-xMJ_YAy3HjQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695717788662-15d204opc0609ejchu4dignq72cumr67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
