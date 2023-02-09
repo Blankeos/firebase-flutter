@@ -1,3 +1,13 @@
+Channels to watch:
+
+```
+Flutter
+Fireship
+Joannes Mike
+The Flutter Way
+Rifqi Eka
+```
+
 # Notes:
 
 ### Making Stateful Widgets
